@@ -1,0 +1,1 @@
+node %~dp0sendfile.js %~dp0file.txt

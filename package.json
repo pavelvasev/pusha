@@ -1,0 +1,10 @@
+{
+  "name": "pusha",
+  "version": "1.0.0",
+  "dependencies": {
+    "send": "pillarjs/send",
+    "busboy": "mscdex/busboy",
+    "glob": "isaacs/node-glob",
+    "request": "request/request"
+  }
+}
