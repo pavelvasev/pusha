@@ -5,6 +5,10 @@
 // аплоад прямой
 // push
 
+/* TODO
+   симолы / в имени данных (каталоги)
+*/
+
 var http = require('http');
 var send = require('send'); // https://github.com/pillarjs/send
 var url = require('url');
